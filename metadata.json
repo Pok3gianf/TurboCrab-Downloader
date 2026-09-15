@@ -1,0 +1,6 @@
+{
+  "name": "TurboCrab Downloader",
+  "description": "Suite de descarga multimedia de alta velocidad con motor matemático CrabCompression y cliente Python por Omega Labs Inc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
